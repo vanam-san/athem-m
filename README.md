@@ -11,16 +11,16 @@ Work in Progress
 #### 🌱 My latest projects
 
 - [athem-m/Discussions](https://github.com/athem-m/Discussions) - Central repository for discussions.
+- [athem-m/burzcontent](https://github.com/athem-m/burzcontent) - A minimal CMS, purposefully built specifically for blogging needs
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects
-- [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book
 
 
 
 #### 🔨 My recent Pull Requests
 
 - [chore: updated docs to show correct setup methods for crisp](https://github.com/Weburz/crisp/pull/58) on [Weburz/crisp](https://github.com/Weburz/crisp) (7 months ago)
-- [chore(docs): updated documentation with proper technologies used](https://github.com/Weburz/burzpage/pull/16) on [Weburz/burzpage](https://github.com/Weburz/burzpage) (1 year ago)
 - [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (1 year ago)
+- [chore(validator): enforcing commit message character limit to 50.](https://github.com/Weburz/crisp/pull/25) on [Weburz/crisp](https://github.com/Weburz/crisp) (1 year ago)
 
 #### 📓 Gists I wrote
 
@@ -32,9 +32,9 @@ Work in Progress
 
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 year ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 year ago)
-- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (1 year ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (1 year ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (1 year ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 year ago)
 
 
 #### 💬 Feedback
