@@ -6,7 +6,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/Discussions](https://github.com/athem-m/Discussions) - Central repository for discussions. (5 months ago)
+- [athem-m/Discussions](https://github.com/athem-m/Discussions) - Central repository for discussions. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ Work in Progress
 
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 year ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 year ago)
-- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (1 year ago)
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (1 year ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 year ago)
+- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 years ago)
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (2 years ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 years ago)
 
 
 #### 💬 Feedback
