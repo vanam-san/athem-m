@@ -18,9 +18,9 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [chore: updated docs to show correct setup methods for crisp](https://github.com/Weburz/crisp/pull/58) on [Weburz/crisp](https://github.com/Weburz/crisp) (9 months ago)
-- [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (1 year ago)
-- [chore(validator): enforcing commit message character limit to 50.](https://github.com/Weburz/crisp/pull/25) on [Weburz/crisp](https://github.com/Weburz/crisp) (1 year ago)
+- [chore: updated docs to show correct setup methods for crisp](https://github.com/weburz/crisp/pull/58) on [weburz/crisp](https://github.com/weburz/crisp) (9 months ago)
+- [chore(contribution.md): fixed a minor syntax error.](https://github.com/weburz/.github/pull/1) on [weburz/.github](https://github.com/weburz/.github) (1 year ago)
+- [chore(validator): enforcing commit message character limit to 50.](https://github.com/weburz/crisp/pull/25) on [weburz/crisp](https://github.com/weburz/crisp) (1 year ago)
 
 #### 📓 Gists I wrote
 
@@ -30,8 +30,8 @@ Work in Progress
 
 #### ⭐ Recent Stars
 
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 year ago)
-- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 year ago)
+- [weburz/crisp](https://github.com/weburz/crisp) - A linter for Git commit messages (1 year ago)
+- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 year ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 years ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (2 years ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 years ago)
