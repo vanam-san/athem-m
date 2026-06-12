@@ -6,9 +6,8 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite. (5 days ago)
+- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite. (6 days ago)
 - [vanam-san/Discussions](https://github.com/vanam-san/Discussions) - Central repository for discussions. (7 months ago)
-- [vanam-san/athem-m](https://github.com/vanam-san/athem-m) -  (11 months ago)
 
 #### 🌱 My latest projects
 
