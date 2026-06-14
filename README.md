@@ -11,9 +11,9 @@ Work in Progress
 
 #### 🌱 My latest projects
 
+- [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) - A customized blogging theme based on astro-erudite v2.0.
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite.
 - [vanam-san/Discussions](https://github.com/vanam-san/Discussions) - Central repository for discussions.
-- [vanam-san/burzcontent](https://github.com/vanam-san/burzcontent) - A minimal CMS, purposefully built specifically for blogging needs
 
 
 
